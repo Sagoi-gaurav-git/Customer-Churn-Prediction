@@ -98,4 +98,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE).
 
 ## Acknowledgments
 
-Dataset originally published by IBM as part of their sample data for [Watson Analytics](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113).# Customer-Churn-Prediction
+Dataset originally published by IBM as part of their sample data for [Watson Analytics](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113).
